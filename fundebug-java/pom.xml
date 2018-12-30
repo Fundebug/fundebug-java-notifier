@@ -7,4 +7,12 @@
        <version>0.0.1</version>
    </parent>
    <artifactId>fundebug-java</artifactId>
+       <dependencies>
+<!-- https://mvnrepository.com/artifact/org.json/json -->
+<dependency>
+    <groupId>org.json</groupId>
+    <artifactId>json</artifactId>
+    <version>20180813</version>
+</dependency>
+    </dependencies>
 </project>
