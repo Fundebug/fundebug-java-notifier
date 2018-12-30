@@ -12,5 +12,6 @@
       <module>fundebug-java</module>
       <module>fundebug-spring</module>
       <module>examples/hello-world</module>
+      <module>examples/spring-rest-api</module>
   </modules>
 </project>
