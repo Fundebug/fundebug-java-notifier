@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="examples/hello-world"/>
 	<classpathentry kind="src" path="fundebug-java/src/main/java"/>
 	<classpathentry kind="src" path="fundebug-spring/src/main/java"/>
+	<classpathentry kind="lib" path="/Users/kiwenlau/Desktop/fundebug-java-notifier/examples/hello-world/com/fundebug/example/hello/lib/javax.servlet-api-3.0.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
