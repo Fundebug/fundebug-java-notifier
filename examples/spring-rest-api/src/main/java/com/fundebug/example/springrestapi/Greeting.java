@@ -1,4 +1,4 @@
-package com.fundebug.example.springrestapi
+package com.fundebug.example.springrestapi;
 
 public class Greeting {
 

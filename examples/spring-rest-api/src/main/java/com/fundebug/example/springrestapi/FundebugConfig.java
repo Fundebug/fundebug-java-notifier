@@ -1,4 +1,4 @@
-package com.fundebug.example.springrestapi
+package com.fundebug.example.springrestapi;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

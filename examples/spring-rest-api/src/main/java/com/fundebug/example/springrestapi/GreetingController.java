@@ -1,4 +1,4 @@
-package com.fundebug.example.springrestapi
+package com.fundebug.example.springrestapi;
 
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.RequestMapping;
